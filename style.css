@@ -1,0 +1,50 @@
+h1{
+	text-align: center;
+}
+body{
+	background-image: url(img/bgc.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.name{
+		
+}
+h2{
+	font-size: 24px;
+}
+.answer{
+
+}
+
+p{
+	color: #696969;
+}
+#button{
+	padding: 20px 120px;
+	cursor: pointer;
+	margin: 0 auto;
+	margin-top: 48px;
+	border: 2px solid #008B8B;
+	border-radius: 8px;
+	display: block;
+}
+.correct{
+	border: 2px solid #00FF00;
+}
+.incorrect{
+	border: 2px solid red;
+}
+input{
+	border: 2px solid #00CED1;
+	border-radius: 8px;
+	padding: 10px 20px;
+}
+#test{
+	background-color: white;
+	width: 55%;
+	margin: 50px auto;
+	border-radius: 10px;
+}
+.questions{
+	margin-left: 2%;
+}
